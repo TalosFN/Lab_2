@@ -1,0 +1,23 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+alt+m",
+        "command": "workbench.action.clearEditorHistory"
+    },
+    {
+        "key": "ctrl+shift+alt+f",
+        "command": "workbench.debug.panel.action.clearReplAction"
+    },
+    {
+        "key": "ctrl+shift+alt+n",
+        "command": "java.view.package.newJavaClass"
+    },
+    {
+        "key": "ctrl+alt+f5",
+        "command": "java.test.editor.run"
+    },
+    {
+        "key": "ctrl+shift+alt+p",
+        "command": "java.overview"
+    }
+]
