@@ -1,0 +1,13 @@
+{
+	 "Print to console": {
+	 	"scope": "java",
+		"prefix": "randm",
+		"body": [
+			
+			"for (int i = 0; i < n ; i++){"
+			"	A[i] = Math.random() % 20;"
+		"}"
+	 	],
+	 	"description": "Random array"
+	 }
+}
